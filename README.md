@@ -2,6 +2,8 @@
 
 My other github user: https://github.com/ignaciotcrespo
 
+![](https://github.com/ignaciotcrespo/ignaciotcrespo/raw/master/asset-office.gif)
+
 <!--
 **ngtignacio/ngtignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
